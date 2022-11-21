@@ -4,4 +4,11 @@ public class series {
     boolean entregado;
     String genero;
     String creador;
+
+    public series(){
+        titulo=" ";
+        entregado = false;
+
+
+    }
 }
